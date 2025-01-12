@@ -10,7 +10,7 @@ I have over 10 years of work experience and many interests. Here are a few:
 - ☄ Fun fact: Once I saw a huge comet!
 
 ### Areas Of Professional Interest
-[![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,react,nextjs,threejs,ts,redux,express,css,html,tailwind,py,django,cpp,postgres,mongodb,postman,vercel,heroku,aws,vite,npm,git,webstorm&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,react,nextjs,threejs,ts,redux,express,css,html,tailwind,py,django,cpp,postgres,mongodb,postman,vercel,heroku,aws,vite,npm,git,webstorm&theme=light)]()
 
 ### Areas I'd Like To Work More With
-[![Learning](https://skillicons.dev/icons?i=c,arduino,d3,elasticsearch,supabase,figma,docker)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=c,arduino,d3,elasticsearch,supabase,figma,docker)]()
