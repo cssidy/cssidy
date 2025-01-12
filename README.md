@@ -1,16 +1,16 @@
-## Hi there 👋
+## Salut!
 
-<!--
-**cssidy/cssidy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer based in Burlington, VT. 
+I have over 10 years of work experience and many interests. Here are a few:
 
-Here are some ideas to get you started:
+- 🌎 I’m currently working on: Mapbox and MERN apps, like building www.houseplantsoftheworld.com
+- 📚 I’m currently learning: Compilers, Linear Algebra, and Three.js
+- 🪴 Current favorite plant: Crassulaceae family
+- 📫 How to reach me: Linkedin message is best
+- ☄ Fun fact: Once I saw a huge comet!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Areas Of Professional Interest
+[![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,react,nextjs,threejs,ts,redux,express,css,html,tailwind,py,django,cpp,postgres,mongodb,postman,vercel,heroku,aws,vite,npm,git,webstorm&theme=light)](https://skillicons.dev)
+
+### Areas I'd Like To Work More With
+[![Learning](https://skillicons.dev/icons?i=c,arduino,d3,elasticsearch,supabase,figma,docker)](https://skillicons.dev)
