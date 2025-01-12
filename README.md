@@ -9,7 +9,7 @@ I have over 10 years of work experience and many interests. Here are a few:
 - 📫 How to reach me: Linkedin message is best
 - ☄ Fun fact: Once I saw a huge comet!
 
-#### Topics I'm Professional Interest In
+#### Topics I'm Professionally Interested In
 [![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,react,nextjs,threejs,ts,redux,express,css,html,tailwind,py,django,cpp,postgres,mongodb,postman,vercel,heroku,aws,vite,npm,git,webstorm&theme=light)]()
 
 #### Topics I'd Like Explore
