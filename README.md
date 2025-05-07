@@ -1,4 +1,4 @@
-## Salut!
+## Salut !
 
 I'm a software engineer based in Burlington, VT. 
 I have over 10 years of work experience and many interests. Here are a few:
