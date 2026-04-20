@@ -1,6 +1,7 @@
 ## Salut !
 
 Senior Software Engineer based in Burlington, VT with 10+ years building full-stack web apps at scale. 
+
 I have many interests. Here are a few:
 
 - 🌿 I’m currently building: www.landscaperslogbook.com
